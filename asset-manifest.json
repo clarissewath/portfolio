@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d7e2bd8.css",
+    "main.js": "/static/js/main.c2de3523.js",
+    "static/media/cobra.png": "/static/media/cobra.4a9eb8ea24ab8f61d27e.png",
+    "static/media/me-round.png": "/static/media/me-round.4788110e9862fa4de795.png",
+    "static/media/quiz.png": "/static/media/quiz.df5240247dd9addc7d9b.png",
+    "static/media/Clarisse_Wathanyuta_CV.pdf": "/static/media/Clarisse_Wathanyuta_CV.e1b8eb964ccdc0f107b0.pdf",
+    "static/media/me-peace-G.png": "/static/media/me-peace-G.b3c8c72dfc07b0f933a0.png",
+    "static/media/snap.jpeg": "/static/media/snap.bbcf06bd24a19b0714ca.jpeg",
+    "static/media/tweet.jpeg": "/static/media/tweet.d8e7ed48cd6afebed773.jpeg",
+    "index.html": "/index.html",
+    "main.9d7e2bd8.css.map": "/static/css/main.9d7e2bd8.css.map",
+    "main.c2de3523.js.map": "/static/js/main.c2de3523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7e2bd8.css",
+    "static/js/main.c2de3523.js"
+  ]
+}
